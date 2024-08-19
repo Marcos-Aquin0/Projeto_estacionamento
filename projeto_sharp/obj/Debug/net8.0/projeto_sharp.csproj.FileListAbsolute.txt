@@ -1,0 +1,14 @@
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\bin\Debug\net8.0\projeto_sharp.exe
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\bin\Debug\net8.0\projeto_sharp.deps.json
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\bin\Debug\net8.0\projeto_sharp.runtimeconfig.json
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\bin\Debug\net8.0\projeto_sharp.dll
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\bin\Debug\net8.0\projeto_sharp.pdb
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.AssemblyInfoInputs.cache
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.AssemblyInfo.cs
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.dll
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\refint\projeto_sharp.dll
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.pdb
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\projeto_sharp.genruntimeconfig.cache
+C:\Users\Marcos A. (Gelado)\Documents\projeto_sharp\obj\Debug\net8.0\ref\projeto_sharp.dll
